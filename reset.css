@@ -1,0 +1,29 @@
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+li {
+    list-style-type: none;
+    font-size: inherit;
+    font-family: inherit;
+}
+a {
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+}
+img {
+    display: block;
+    border: none;
+}
+h1, h2, h3 {
+    font-size: inherit;
+    font-family: inherit;
+}
